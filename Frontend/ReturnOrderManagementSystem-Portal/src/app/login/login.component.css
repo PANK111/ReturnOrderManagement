@@ -1,0 +1,13 @@
+#list1 .form-control {
+    border-color:black;
+}
+
+#list1 .form-control:focus {
+    border-color: coral;
+    box-shadow: none;
+    
+}
+
+#list1 .select-input.form-control[readonly]:not([disabled]) {
+    background-color: #0b0101;
+}
