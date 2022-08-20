@@ -22,6 +22,7 @@ Login EndPion: /auth/login
 # Sample :
 
 ![image](https://user-images.githubusercontent.com/35097948/168907949-ccab0a1a-4017-47b7-bd06-c26933ee70e6.png)
+<img width="674" alt="LoginApi" src="https://user-images.githubusercontent.com/40983235/185740439-97d776c7-622e-4ebf-8309-39a7d458e8b8.PNG">
 
 Authentication EndPion: /auth/validate?userName=ashu123
 # Sample :
