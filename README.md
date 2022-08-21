@@ -20,38 +20,34 @@ API BaseURL : http://localhost:9191
 
 Login EndPion: /auth/login
 # Sample :
+<img width="627" alt="authlogin" src="https://user-images.githubusercontent.com/40983235/185799464-33fd07f8-6497-44c7-b836-3f579b5516c4.PNG">
 
-![image](https://user-images.githubusercontent.com/35097948/168907949-ccab0a1a-4017-47b7-bd06-c26933ee70e6.png)
-<img width="674" alt="LoginApi" src="https://user-images.githubusercontent.com/40983235/185740439-97d776c7-622e-4ebf-8309-39a7d458e8b8.PNG">
-
-Authentication EndPion: /auth/validate?userName=ashu123
+Authentication EndPion: /auth/validate?userName=PAN9
 # Sample :
-
-![image](https://user-images.githubusercontent.com/35097948/168910211-adc2eb45-4f27-4e71-b783-1d2dba647360.png)
-
+<img width="635" alt="ValidateUser" src="https://user-images.githubusercontent.com/40983235/185799525-93427440-45a8-47bc-94a8-3e5a4bde7f28.PNG">
 ProcessDetail EndPion: /return/ProcessDetail
 # Sample :
+<img width="636" alt="Auth" src="https://user-images.githubusercontent.com/40983235/185799562-cef861ef-6cea-48be-99e6-43b313a80149.PNG">
 
-![image](https://user-images.githubusercontent.com/35097948/168908457-ff5e6fd6-3cc4-4977-b3f2-08b669cb4b5c.png)
+<img width="642" alt="returnProcessDetail" src="https://user-images.githubusercontent.com/40983235/185799787-3508906b-d20c-463e-8b21-f7ce3f894c77.PNG">
 
-![image](https://user-images.githubusercontent.com/35097948/168908142-8747bd16-6dce-4c42-ac28-b345fede1274.png)
 
 CompleteProcessing EndPion: /return/CompleteProcessing/{requestId}/{cardNumber}/{creditLimit}/{processingCharge}
 # Sample :
+<img width="630" alt="1auth" src="https://user-images.githubusercontent.com/40983235/185799622-3bd4b214-cabb-4e33-813a-00b32ce9964d.PNG">
 
-![image](https://user-images.githubusercontent.com/35097948/168909456-2d9efbe8-aad2-463e-b074-5e762fa93a8f.png)
-
-![image](https://user-images.githubusercontent.com/35097948/168909374-26861b2f-cff8-4cae-a4ab-a97841800f75.png)
+<img width="636" alt="CompleteProcessing" src="https://user-images.githubusercontent.com/40983235/185799633-cdac208d-17cc-4aae-9bb0-3758ea6db8f4.PNG">
 
 ----------------------------------------  Extra Features ---------------------------------------
 
 ProcessDetails URL: http://localhost:9191/return/ProcessDetail/{userName}
 # Sample :
-![image](https://user-images.githubusercontent.com/35097948/168910845-1c08305c-d4a4-441b-a89a-85407c1ea7ec.png)
+<img width="641" alt="ProcessDetail" src="https://user-images.githubusercontent.com/40983235/185799669-54dfe131-e54e-4c15-86bd-e92959363e0e.PNG">
 
 registerNewUser URL: http://localhost:9094/registerNewUser
 # Sample :
-![image](https://user-images.githubusercontent.com/35097948/168911178-f958e1c0-70f9-4ede-a949-6ddf4e980131.png)
+
+<img width="636" alt="Newuser" src="https://user-images.githubusercontent.com/40983235/185799696-7e716ab2-880a-483c-8bb3-374f79935716.PNG">
 
 
 
@@ -62,7 +58,8 @@ registerNewUser URL: http://localhost:9094/registerNewUser
 Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
 ## Log in: 
-![image](https://user-images.githubusercontent.com/35097948/168912188-c3a42c20-cc7f-470f-8780-1f7d976d7d5e.png)
+![LoginSnip](https://user-images.githubusercontent.com/40983235/185799817-eaac9ccc-bed6-47d8-8db7-560e2c1576a0.jpg)
+
 
 ## Processing  
 ![image](https://user-images.githubusercontent.com/35097948/168912966-50d42c6b-f2e5-4c99-82fa-7dbf65701de9.png)
