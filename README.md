@@ -62,15 +62,12 @@ Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will 
 
 
 ## Processing  
-![image](https://user-images.githubusercontent.com/35097948/168912966-50d42c6b-f2e5-4c99-82fa-7dbf65701de9.png)
-![image](https://user-images.githubusercontent.com/35097948/168913023-b9db2846-674d-4e0e-bbfd-61e2ce9f0cef.png)
-![image](https://user-images.githubusercontent.com/35097948/168913080-124a7e16-2d0f-429c-83a0-7294c1c48d02.png)
+![ProcessingDetail](https://user-images.githubusercontent.com/40983235/185799871-95b1cd5a-5917-4f56-bf92-489c4f471295.jpg)
+<img width="960" alt="PaymetDue" src="https://user-images.githubusercontent.com/40983235/185799916-e1b5b59d-3f47-4be3-b447-62b237b581ea.PNG">
+
 
 ## Processing Charge Paymet Getway
-![image](https://user-images.githubusercontent.com/35097948/168913168-e2bbb8d8-63ad-4e4f-87db-a54c87759af1.png)
-
-
-
+<img width="960" alt="PaymentGateway" src="https://user-images.githubusercontent.com/40983235/185799967-c4603bbf-9e94-4229-92f6-41ad498b408f.PNG">
 
 # Developed by:
 
